@@ -12259,4 +12259,12 @@
   <block id="ec63b8aecacb81cf9705373c2a309a42" category="paragraph">SnapMirror는 두 가지 유형의 데이터 보호 관계를 제공합니다. 관계를 초기화하거나 업데이트하기 전에 SnapMirror은 각 유형에 대해 요소 소스 볼륨의 스냅샷 복사본을 생성합니다.</block>
   <block id="064586429a532e66540622ca674c0cd1" category="list-text">DR(재해 복구) _ 데이터 보호 관계에서 대상 볼륨에는 SnapMirror에서 생성한 스냅샷 복사본만 포함되며, 운영 사이트에 재해 발생 시에도 데이터를 계속 제공할 수 있습니다.</block>
   <block id="d6dbbbf18fd021df4ecd159f9c136ff2" category="list-text">장기 보존_데이터 보호 관계에서 타겟 볼륨에는 Element 소프트웨어에서 생성된 시점 스냅샷 복사본과 SnapMirror에서 생성한 스냅샷 복사본이 포함됩니다. 예를 들어, 20년 동안 생성된 월별 스냅샷 복사본을 유지하려고 할 수 있습니다.</block>
+  <block id="c99fba0db719381ede00d894486894a0" category="cell">* 스토리지 펌웨어 번들 2.182.0 *</block>
+  <block id="f60525d0f867ed7f15f5ebf94bb879df" category="cell">2024년 10월 17일</block>
+  <block id="40d02a54e5711497609651e0d06eb4ab" category="cell">3B14를 참조하십시오</block>
+  <block id="c55a468007fe87cc9f913dec692ea9eb" category="cell">4.01.07</block>
+  <block id="9365eb81d2e69739b5c5c0a6bda52315" category="cell">GDC5A02Q를 참조하십시오</block>
+  <block id="1a9f7cf4eade0ea391d219a7acbeea22" category="cell">11093A10를 참조하십시오</block>
+  <block id="a789af7a3f0be8e6b5b27e8f2c902f38" category="cell">110B3A10를 참조하십시오</block>
+  <block id="7a1a50b4f214356238b1fdd7473fb635" category="cell">NAT3.6</block>
 </blocks>
