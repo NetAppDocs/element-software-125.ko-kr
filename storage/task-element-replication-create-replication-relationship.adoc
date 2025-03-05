@@ -1,7 +1,7 @@
 ---
 permalink: storage/task-element-replication-create-replication-relationship.html 
 sidebar: sidebar 
-keywords: element, ui, create, relationship, element, source, ontap, destination 
+keywords: element, ui, create, relationship, element, source, ontap, destination, cli 
 summary: SnapMirror를 사용하여 Element 볼륨의 스냅샷 복사본을 ONTAP 타겟 시스템에 복제할 수 있습니다. Element 사이트에서 재해가 발생할 경우 ONTAP 시스템에서 클라이언트로 데이터를 제공하고 서비스가 복원되면 Element 소스 볼륨을 다시 활성화할 수 있습니다. 
 ---
 = 요소 소스에서 ONTAP 대상으로 관계를 생성합니다
@@ -22,7 +22,7 @@ SnapMirror를 사용하여 Element 볼륨의 스냅샷 복사본을 ONTAP 타겟
 +
 [NOTE]
 ====
-Element 소프트웨어 웹 UI에서만 이 작업을 수행할 수 있습니다.
+또는 에서만 이 작업을 수행할 수 link:concept_snapmirror_labels.html["Element 소프트웨어 웹 UI"]link:../api/concept_element_api_snapshots_overview.html["API 메서드"]있습니다.
 
 ====
 
