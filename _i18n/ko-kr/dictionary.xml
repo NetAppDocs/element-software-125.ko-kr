@@ -4640,10 +4640,6 @@
   <block id="65bd83537129be15c8027ec94bec5bd3" category="inline-xref-macro">액세스 제어</block>
   <block id="4108d76cefab2b4494492fb5c706aa01" category="list-text"><block ref="4108d76cefab2b4494492fb5c706aa01" category="inline-xref-macro-rx"></block></block>
   <block id="c2c075d7ecfea2a1a630498ac1110e78" category="list-text"><block ref="c2c075d7ecfea2a1a630498ac1110e78" category="inline-xref-macro-rx"></block></block>
-  <block id="b0cda36836b6d8e27c36c8d9d6b48f3a" category="inline-link">SolidFire All-Flash 스토리지 리소스 페이지를 참조하십시오</block>
-  <block id="a980426853b5ccc1de52aeb0b0ae0463" category="list-text"><block ref="a980426853b5ccc1de52aeb0b0ae0463" category="inline-link-rx"></block></block>
-  <block id="d25459b3c5acd2943fae1e5fda4cfa22" category="inline-link">SolidFire 및 Element 소프트웨어 설명서 센터</block>
-  <block id="024c22e90f2315636ed8d61b006ad1b5" category="list-text"><block ref="024c22e90f2315636ed8d61b006ad1b5" category="inline-link-rx"></block></block>
   <block id="62f0b25f98beb1882b9384da1aba8b58" category="summary">Element 소프트웨어 웹 UI에서는 AbortSnapMirrorRelationship 메서드를 사용하여 시작되었지만 아직 완료되지 않은 SnapMirror 전송을 중지합니다.</block>
   <block id="02bd47d66c7a7a780788d9ff1bcef84a" category="paragraph">Element 소프트웨어 웹 UI에서는 메소드를 사용하여<block ref="79f292fb9cc56e2d74c158d65c09ad27" prefix=" " category="inline-code"></block> 시작되었지만 아직 완료되지 않은 SnapMirror 전송을 중지합니다.</block>
   <block id="b1f147c909c66a76d992a27189b16c54" category="paragraph">snapMirrorEndpointID입니다</block>
@@ -8936,8 +8932,6 @@
   <block id="4195434d2c036cf973c32bdb4ac19828" category="paragraph">NetApp에서 제공하고 NetApp Element 소프트웨어와 통합된 스토리지 노드를 사용합니다.</block>
   <block id="cc9d5c6e43509b7b512cd8106b62cef6" category="inline-link-macro">SolidFire All-Flash 스토리지 아키텍처 개요</block>
   <block id="ce772989c5b639e2ddb875f41c132379" category="paragraph"><block ref="ce772989c5b639e2ddb875f41c132379" category="inline-link-macro-rx"></block></block>
-  <block id="e2291d0b9bc2d41bc343cf77cf0a1a87" category="inline-link">SolidFire All-Flash 스토리지 개요</block>
-  <block id="e2c85d417b263e570fcb0b7027cad0ba" category="list-text"><block ref="e2c85d417b263e570fcb0b7027cad0ba" category="inline-link-rx"></block></block>
   <block id="148da2fc8997120fa9c4ae723fb03eb1" category="summary">Active IQ는 클러스터 전체 데이터의 기간별 뷰를 지속적으로 업데이트하는 웹 기반 툴입니다. 특정 이벤트, 임계값 또는 메트릭에 대한 알림을 설정할 수 있습니다. Active IQ를 사용하면 시스템 성능과 용량을 모니터링할 수 있을 뿐만 아니라 클러스터 상태에 대한 최신 정보를 유지할 수 있습니다.</block>
   <block id="286e5e658aa2035edb6c87d9b36606aa" category="summary">NetApp Element 소프트웨어 인터페이스 및 통합 유틸리티를 사용하여 SolidFire 스토리지 시스템을 관리할 수 있습니다.</block>
   <block id="8899b6ed5385e8973e5fe00da2101ccd" category="doc">SolidFire 소프트웨어 인터페이스</block>
@@ -10907,8 +10901,6 @@
   <block id="88935f8e32d3f781d70b8758aacc2e03" category="paragraph">아직 클러스터에 추가되지 않은 노드의 기본 문제 해결을 수행할 수 있습니다. NetApp Support의 도움을 받거나 지원을 받지 않고 이 용도로 sfreadonly 시스템 계정을 사용할 수 있습니다. 관리 노드를 설정한 경우 SSH에 사용하고 이 작업에 대해 제공된 스크립트를 실행할 수 있습니다.</block>
   <block id="39d7e3e1db072701b357f9d1235c66dc" category="list-text">SSH 클라이언트가 설치된 Windows, Linux 또는 Mac 시스템에서 NetApp Support에서 제공하는 시스템에 적합한 스크립트를 실행합니다.</block>
   <block id="326d0c521ea9c5fcd0fc04bacc22d618" category="list-text">노드 IP에 SSH:</block>
-  <block id="a83404b3b2ca8b3c39459b719d7844d7" category="inline-link">NetApp HCI 리소스 페이지 를 참조하십시오</block>
-  <block id="efb3497df51898324a04d1329dc9b9ae" category="list-text"><block ref="efb3497df51898324a04d1329dc9b9ae" category="inline-link-rx"></block></block>
   <block id="d40819e9e843e97335bf320aeb8d5ac1" category="summary">관리 노드를 사용하여 문제 해결을 위해 NetApp Support 액세스를 설정할 수 있습니다.</block>
   <block id="e606a329fd1c8e2f2543e5fd1dce6af5" category="doc">원격 NetApp 지원 세션을 시작합니다</block>
   <block id="6d76b07dcfce8c041eb64f1886c69449" category="paragraph">SolidFire All-Flash 스토리지 시스템에 대한 기술 지원이 필요한 경우 NetApp Support를 통해 시스템과 원격으로 연결할 수 있습니다. 세션을 시작하고 원격 액세스를 위해 NetApp Support는 사용자 환경에 대한 역방향 SSH(Secure Shell) 연결을 열 수 있습니다.</block>
@@ -12294,4 +12286,6 @@
   <block id="bc0ffe4508f685d32386d4fcd929dd50" category="list-text">"HH:mm:ss"</block>
   <block id="99eb6e1c13e9ae0bb02e022566f20121" category="paragraph">스케줄에 지정된 고유한 이름, 생성된 스냅샷의 보존 기간 및 스냅샷이 생성된 볼륨의 볼륨 ID가 포함됩니다. 유효한 값:</block>
   <block id="65dc2083558f47cd1151751a12c24549" category="paragraph">동기화 작업 유형에 따라 부동 또는 정수</block>
+  <block id="ad0a505756223d68dc11afeae3459351" category="inline-link">NetApp HCI 문서</block>
+  <block id="bf667c8802395357e4f080e2fcd819e4" category="list-text"><block ref="bf667c8802395357e4f080e2fcd819e4" category="inline-link-rx"></block></block>
 </blocks>
